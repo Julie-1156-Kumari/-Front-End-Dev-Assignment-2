@@ -1,0 +1,11 @@
+.main .no-bullets a {
+    display: inline-flexbox;
+}
+
+.main .coment pre {
+    display: inline-flex;
+}
+
+.main .coment .text1 {
+    margin-left: -100px;
+}

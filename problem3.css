@@ -1,0 +1,95 @@
+header,
+section,
+footer,
+aside,
+article,
+figure,
+figcaption {
+    display: block;
+}
+
+section h1 {
+    float: left;
+    padding-left: 30px;
+    padding-right: 150px;
+}
+
+section ul {
+    font-size: large;
+    padding-left: 100px;
+
+}
+
+ul li a:hover,
+.current {
+    color: black;
+}
+
+footer h {
+    float: left;
+    padding-left: 100px;
+    padding-right: 650px;
+
+}
+
+section li {
+    display: inline;
+    margin-right: 70px;
+
+}
+
+.wrapper header p {
+    text-align: center;
+}
+
+header {
+    height: 350px;
+    color: #ffffff;
+    background-color: rgb(25, 46, 67);
+}
+
+.main .no-bullets li {
+    display: inline;
+    margin-right: 420px;
+}
+
+.main .no-bullets .menu1 {
+    margin-left: 40px;
+}
+
+.main .images img {
+    display: inline-flexbox;
+    margin-right: 240px;
+}
+
+.main .images .image1 {
+    margin-left: 40px;
+}
+
+.main .font1 {
+    margin-left: 40px;
+}
+
+.main .fig1 font {
+    display: inline;
+    margin-right: 265px;
+}
+
+.main .fig2 .text1 {
+    margin-left: -100px;
+}
+
+.main .fig2 pre {
+    display: inline-flex;
+}
+
+.main .fig2 .text {
+    margin-left: 80px;
+}
+
+footer {
+    clear: both;
+    color: #ffffff;
+    background-color: rgb(25, 46, 67);
+    height: 30px;
+}
